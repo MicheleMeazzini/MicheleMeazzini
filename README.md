@@ -1,6 +1,5 @@
 # 👋 Hi there! I'm Michele Meazzini
 
-Welcome to my GitHub profile!  
 I'm currently pursuing a Master's degree in **Artificial Intelligence and Data Engineering** at the **University of Pisa**, after earning my Bachelor's degree in **Computer Engineering** from the same university.
 
 I live in **Altopascio (LU), Italy**, and beyond my academic and professional interests, I'm really enjoy **playing videogames** and **fitness**.  
