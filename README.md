@@ -29,8 +29,4 @@ Beyond coding, I enjoy **playing videogames and fitness activities**.
 
 ---
 
-🔹 **Feel free to ask information about my repositories and connect with me!** 😊🚀
-
----
-
 🔹 **Feel free to explore my repositories and connect with me!** 😊🚀
