@@ -1,5 +1,10 @@
 # 👋 Hi there! I'm Michele Meazzini
 
+🎓 Master's Student in Artificial Intelligence and Data Engineering at the University of Pisa
+💻 Bachelor’s Degree in Computer Engineering at the University of Pisa
+
+🔍 About Me
+
 I'm currently pursuing a Master's degree in **Artificial Intelligence and Data Engineering** at the **University of Pisa**, after earning my Bachelor's degree in **Computer Engineering** from the same university.
 
 I live in **Altopascio (LU), Italy**, and beyond my academic and professional interests, I'm really enjoy **playing videogames** and **fitness**.  
