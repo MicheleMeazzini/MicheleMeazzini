@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there! I'm Michele Meazzini
 
-<!--
-**MicheleMeazzini/MicheleMeazzini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm currently pursuing a Master's degree in **Artificial Intelligence and Data Engineering** at the **University of Pisa**, after earning my Bachelor's degree in **Computer Engineering** from the same university.
 
-Here are some ideas to get you started:
+I live in **Altopascio (LU), Italy**, and beyond my academic and professional interests, I'm really enjoy **playing videogames** and **fitness**.  
+This GitHub space is where I share my projects, ideas, and experiments in the fields of AI, data engineering, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Technical Skills
+
+*Here I will manually add a list of my programming languages, tools, frameworks, and other tech skills.*
+
+---
+
+## 📫 Get in touch
+
+Feel free to reach out to me at: **[meazzini92@gmail.com](mailto:meazzini92@gmail.com)**
