@@ -10,11 +10,11 @@ Beyond coding, I enjoy **playing videogames and fitness activities**.
 
 ---
 
-## 🛠️ Tech Stack & Skills  
-🔹 **Languages:** Python | Java | C++ | C | x86 Assembly  | Kotlin
-🔹 **Web Developing:** HTML5 | CSS3 | JavaScript | PHP
+## 🛠️ Tech Skills  
+🔹 **Languages:** Python | C++ | C | JavaScript | PHP | x86 Assembly  
 🔹 **AI & Data Science:** Machine Learning | Data Mining | Neural Networks  
-🔹 **Databases:** MySQL | MongoDB                                                                                                                                                                                 🔹 **Tools:** Git & GitHub | Visual Studio Code | IntelliJ Idea | Android Studio
+🔹 **Databases:** MySQL | PostgreSQL  
+🔹 **Tools & Other:** Git & GitHub | Docker | Linux | Web Development  
 
 ---
 
@@ -25,3 +25,7 @@ Beyond coding, I enjoy **playing videogames and fitness activities**.
 ---
 
 🔹 **Feel free to ask information about my repositories and connect with me!** 😊🚀
+
+---
+
+🔹 **Feel free to explore my repositories and connect with me!** 😊🚀
