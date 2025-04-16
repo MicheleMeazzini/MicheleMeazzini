@@ -25,6 +25,5 @@ Beyond coding, I enjoy **playing videogames and fitness activities**.
 📩 **Email:** [meazzini92@gmail.com](mailto:meazzini92@gmail.com)  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/michele-meazzini-b17714201/](https://www.linkedin.com/in/michele-meazzini-b17714201/)
 
----
 
 **Feel free to explore my repositories and connect with me!** 😊🚀
