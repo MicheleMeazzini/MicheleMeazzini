@@ -4,9 +4,9 @@
 💻 **Bachelor’s Degree in Computer Engineering at the University of Pisa**  
 
 ## 🔍 About Me  
-I'm a **Computer Engineering graduate** with a strong passion for **Artificial Intelligence, Machine Learning, and Data Engineering**. Currently, I am pursuing a **Master’s Degree in AI & Data Science**, where I am expanding my expertise in **data-driven technologies and automation**.  
-
-Beyond coding, I enjoy **mystery novels, board games, and solving logic puzzles**.  
+I am **21 years old** and currently living in **Altopascio (LU), Italy**. I'm a **Computer Engineering graduate** with a strong passion for **Computers, Artificial Intelligence and Data Processing**.
+Currently I am pursuing a **Master’s Degree in AI & Data Engineering** at University of Pisa.
+Beyond coding, I enjoy **playing videogames and fitness activities**.  
 
 ---
 
