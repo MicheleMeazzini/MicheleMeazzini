@@ -19,7 +19,7 @@ Beyond coding, I enjoy **playing videogames and fitness activities**.
 
 🔹 **Databases:** MySQL | MongoDB | Neo4J
 
-🔹 **Tools & Other:** Git & GitHub | Linux | VSC | IntelliJ Idea | Android Studio
+🔹 **Tools:** Git & GitHub | Linux | VSC | IntelliJ Idea | Android Studio
 
 ---
 
