@@ -8,7 +8,6 @@ I am **21 years old** and currently living in **Altopascio (LU), Italy**. I'm a 
 Currently I am pursuing a **Master’s Degree in AI & Data Engineering** at University of Pisa.
 Beyond coding, I enjoy **playing videogames and fitness activities**.  
 
----
 
 ## 🛠️ Tech Skills  
 🔹 **Languages:** Python | C++ | C | x86 Assembly | Kotlin | Java
@@ -21,12 +20,10 @@ Beyond coding, I enjoy **playing videogames and fitness activities**.
 
 🔹 **Tools:** Git & GitHub | Linux | VSC | IntelliJ Idea | Android Studio
 
----
 
 ## 📫 Get in Touch!  
 📩 **Email:** [meazzini92@gmail.com](mailto:meazzini92@gmail.com)  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/michele-meazzini-b17714201/](https://www.linkedin.com/in/michele-meazzini-b17714201/)
 
----
 
 🔹 **Feel free to explore my repositories and connect with me!** 😊🚀
