@@ -21,9 +21,11 @@ When I'm not coding, you can find me **gaming or working out**.
 🔹 **Tools:** Git & GitHub | Linux | VSC | IntelliJ Idea | Android Studio
 
 ## 💻 My Public Repositories 
-🔹 **FilmSphere:** A Relational SQL Database with simple CRUD and Analytics
+🔹 **FilmSphere:** A Relational SQL Database with simple CRUD and Analytics.
 
-🔹 **Escape Room:** A client-server game based on text commands and responses  
+🔹 **Escape Room:** A client-server game based on text commands and responses.
+
+🔹 **FlavourFit:** A NoSQL Database composed of DocumentDB and GraphDB with RESTful API implementation.
 
 🔹 **Walksafe:** Android application that uses smartwatch sensors to detect dangerous situations and suggest safer routes to walking users.
 
