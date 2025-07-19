@@ -10,7 +10,7 @@ When I'm not coding, you can find me **gaming or working out**.
 
 
 ## 🛠️ Tech Skills  
-🔹 **Languages:** Python | C++ | C | x86 Assembly | Kotlin | Java
+🔹 **Languages:** C++ | C | Kotlin | Java | Python | x86 Assembly
 
 🔹 **Web Developing:** HTML5 | CSS3 | JavaScript | PHP  
 
