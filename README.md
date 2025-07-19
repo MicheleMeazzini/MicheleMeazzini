@@ -29,6 +29,8 @@ When I'm not coding, you can find me **gaming or working out**.
 
 🔹 **Walksafe:** Android application that uses smartwatch sensors to detect dangerous situations and suggest safer routes to walking users.
 
+🔹 **IoT-Project:** IoT-based Smart Room which uses Machine Learning to self-regulate its parameters with an Energy Saving mode.
+
 ## 📫 Get in Touch!  
 📩 **Email:** [meazzini92@gmail.com](mailto:meazzini92@gmail.com)  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/michele-meazzini-b17714201/](https://www.linkedin.com/in/michele-meazzini-b17714201/)
