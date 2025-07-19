@@ -18,7 +18,7 @@ When I'm not coding, you can find me **gaming or working out**.
 
 🔹 **Databases:** MySQL | MongoDB | Neo4J
 
-🔹 **Tools:** Git & GitHub | Linux | VSC | IntelliJ Idea | Android Studio
+🔹 **Tools:** Git | Linux | VSC | IntelliJ Idea | Android Studio | Jupyter Notebooks
 
 ## 💻 My Public Repositories 
 🔹 **FilmSphere:** A Relational SQL Database with simple CRUD and Analytics.
