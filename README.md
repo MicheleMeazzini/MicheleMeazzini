@@ -27,7 +27,7 @@ When I'm not coding, you can find me **gaming or working out**.
 
 🔹 **FlavourFit:** A NoSQL Database composed of DocumentDB and GraphDB with RESTful API implementation.
 
-🔹 **Walksafe:** Android application that uses smartwatch sensors to detect dangerous situations and suggest safer routes to walking users.
+🔹 **Walksafe:** Android application with Smartwatch Sensors and Machine Learning integration.
 
 🔹 **IoT-Project:** IoT-based Smart Room which uses Machine Learning to self-regulate its parameters with an Energy Saving mode.
 
