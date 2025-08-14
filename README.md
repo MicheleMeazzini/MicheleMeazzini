@@ -23,7 +23,7 @@ When I'm not coding, you can find me **gaming or working out**.
 ## 💻 My Public Repositories 
 🔹 **FilmSphere:** A Relational SQL Database with simple CRUD and Analytics.
 
-🔹 **EscapeRoom:** A client-server game based on text commands and responses.
+🔹 **EscapeRoom:** A client-server coop game based on text commands and responses.
 
 🔹 **FlavourFit:** A NoSQL Database composed of DocumentDB and GraphDB with RESTful API implementation.
 
