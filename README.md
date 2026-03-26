@@ -20,16 +20,6 @@ When I'm not coding, you can find me **gaming or working out**.
 
 🔹 **Tools:** Git | Linux | VSC | IntelliJ Idea | Android Studio | Jupyter Notebooks
 
-## 💻 My Public Repositories 
-🔹 **FilmSphere:** A Relational SQL Database with simple CRUD and Analytics.
-
-🔹 **EscapeRoom:** A client-server coop game based on text commands and responses.
-
-🔹 **FlavourFit:** A NoSQL Database composed of DocumentDB and GraphDB with RESTful API implementation.
-
-🔹 **Walksafe:** Android application with Smartwatch Sensors and Machine Learning integration.
-
-🔹 **IoT-Project:** IoT-based Smart Room which uses Machine Learning to self-regulate its parameters with an Energy Saving mode.
 
 ## 📫 Get in Touch!  
 📩 **Email:** [meazzini92@gmail.com](mailto:meazzini92@gmail.com)  
